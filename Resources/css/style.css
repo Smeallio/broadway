@@ -6,7 +6,12 @@ body {
 }
 
 div.intro, div.newyork {
-  background-image: url(./resources/assets/the-flatiron-building.png);
+  background-image: url("./resources/assets/the-flatiron-building.png");
+}
+
+div.intro p {
+  font-size: 18px;
+  color: white;
 }
 
 div.newyork {
