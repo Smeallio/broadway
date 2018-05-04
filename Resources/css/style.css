@@ -6,7 +6,7 @@ body {
 }
 
 div.intro, div.newyork {
-  background-image: url("./resources/assets/the-flatiron-building.png");
+  background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
 }
 
 div.intro p {
@@ -40,4 +40,5 @@ h3 {
 p {
   font-size: 14px;
   font-weight: normal;
+  text-align: left;
 }
